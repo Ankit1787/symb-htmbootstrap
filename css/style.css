@@ -51,7 +51,7 @@ body {
 }
 
 .divider {
-  background: url('assets/divider.jpg') center/cover no-repeat;
+  background: url('../assets/divider.jpg') center/cover no-repeat;
   height: 50vh;
 }
 .divider-container{
